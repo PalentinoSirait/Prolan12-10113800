@@ -1,0 +1,2 @@
+Materi enkapsulasi secara tidak langsung berfungsi untuk merubah isi dari variabel dengan menggunakan set.
+Dan dapat menggunakan get untuk mendapatkan nilai dari variabel yang tidak dapat di rubah karena menggunakan atribut akses modifiel private.
