@@ -1,0 +1,4 @@
+kelas interface bisa di turunkan atau diwariskan kepada kelass yang memakai method yang ada dalam masing - masing interface tersebut
+dengan keyword extends interface yang di definisikan.
+
+dan juga sebuah kelass mengimplementasi 1 interface yang sudah dibut dengan keyword implement.
