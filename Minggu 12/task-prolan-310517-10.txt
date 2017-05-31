@@ -1,0 +1,2 @@
+1.Penambahan kelas generik rating.java yang berfungsi untuk menampung nilai judul lagu dan reting yang bertype String.
+2.penambahan code program di mainClass untuk implementgasi kelas generik di line 26-35 dan meminta inputa nilai dan di tampilkan di layar.
