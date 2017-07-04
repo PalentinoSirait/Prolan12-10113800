@@ -1,0 +1,46 @@
+Pertemuan 1. 
+	Materi Kelas : konsep dasar oop
+		       memahami dasar dasar - dasar pemikiran objek dalam membuat program.
+	Materi Lab : membuat program penampilan Hello word di notepad.
+Pertemuan 2
+	Materi Kelas : Kelas dan Objek
+			Pembelajan bagaimana suate kelas di java itu terbentuk termasuk kalisfikasinya dan membuat kelas yang terlah terdefisini menjadi suatu objek pada kelas tersebut.
+	Materi Lab : membuat beberapa kelas di notepad dan di compile
+Pertemuan 3
+	Materi Kelas : Method, kontaraktor, this, atribut
+			method dapat diartikan sebagai fungsi - funsi di sebuah kelas. Konstraktor dapat diartikan sebagai kondisi awal sebuah kelas atau objek.
+			this sendiri diartikan sebagai nilai dari kelas itu sendiri.
+			atribut adalah variabel penyimpan sementara.
+	Materi Lab : penambahan method kontaktor this dan atribut pada program pertemuan minggu lalu.
+Pertemuan 4
+	Materi Kelas :Inheritance
+			Membahas tentang pewarisan kelas dan fungsi fungsi tertentu.
+	Materi Lab : memodifikasi kelas minggu lalu menjadi pewarisan sifat kelas.
+Pertemuan 5
+	Materi Kelas :Overiding
+			penggunaan tatacara menggunakan method overiding pada sebuah kelas di java serta aturan aturannya.
+	Materi Lab : membuat method overiding pada kelas sebelumnya sebagai implementasi materi di kelas.
+Pertemuan 6
+	Materi Kelas : Polimorfisme
+			Penjelasan Sebuah objek yang dapat memiliki banyak bentuk. Dan menggunakan keyword super sebagai reference objek dari sebuah sub-kelas.
+	Materi Lab : implementasi Polimorfisme dengan keyword extends di java
+Pertemuan 7
+	Materi Kelas : Abstracktion
+			pembahasan sifat sifat kelas abstrac. dapat diartikan sebagai acuan dalam sebuah kelas di program.
+	Materi Lab : membuat controh kelas abstaction
+Pertemuan 8
+	Materi Kelas : Interface
+			pembahasan sifat sifat kelas Interface hampir sama dengan kelas abstak yang dikumpulkan(Sekelompok kelas abstrak). dapat diartikan sebagai acuan dalam sebuah kelas di program.
+	Materi Lab : membuat controh kelas intetrface berkolaborasi dengan kelas abstrack.
+Pertemuan 9
+	Materi Kelas : Kelas Generik
+			pembahasan sifat sifat kelas generik yang universal atau umum.penetuan tipe kelas 
+	Materi Lab : membuat contoh kelas generik dengan mnentukan kelas integer.
+Pertemuan 10
+	Materi Kelas : Method Generik
+			Pembahasan Penentuan tipe parameter method yang dimiliki kelas.
+	Materi Lab : membuat contoh Method Generik
+Pertemuan 11
+	Materi Kelas : Package
+			Pembahasan membuat package sebuah kelas. serta tujuan untuk menghindari nama kelas yang sama
+	Materi Lab : Menambahkan Package pada program program yang terlah dib uat sebelumnnya	
